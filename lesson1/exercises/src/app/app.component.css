@@ -1,0 +1,12 @@
+fav-links {
+    text-align: center;
+}
+
+.container {
+    background-color: azure;
+    border-style: solid;
+}
+
+.col-3 {
+    border-style: dashed;
+}
